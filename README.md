@@ -2,7 +2,7 @@
 A video summarizer powered by Gemini and Phidata to analyze the video and give an in-depth summary with the added insights of the video using the advance power of Agentic AI.
 
 Languages and tool used are: 
-[![My Skills](https://skillicons.dev/icons?i=python,git,ai,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,git,ai,googleaistudio,phidata)](https://skillicons.dev)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white)
 
 ## 🚀 How to Run Locally
