@@ -10,7 +10,7 @@ Languages and tool used are:
 ## 🚀 How to Run Locally
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/car-resale-price-predictor.git
+git clone https://github.com/your-username/Agentic-AI-Video-Summarizer.git
 cd car-resale-price-predictor
 ```
 
