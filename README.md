@@ -11,7 +11,7 @@ Languages and tool used are:
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/your-username/Agentic-AI-Video-Summarizer.git
-cd car-resale-price-predictor
+cd Agentic-AI-Video-Summarizer
 ```
 
 ### 2️⃣ Create a Virtual Environment
