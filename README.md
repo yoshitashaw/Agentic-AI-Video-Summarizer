@@ -7,6 +7,10 @@ Languages and tool used are:
 ![DuckDuckGo](https://img.shields.io/badge/duckduckgo-de5833?style=for-the-badge&logo=duckduckgo&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white)
 
+
+### Live At: 
+![Link](https://agentic-ai-video-summarizer.streamlit.app/)
+
 ## 🚀 How to Run Locally
 ### 1️⃣ Clone the Repository
 ```bash
