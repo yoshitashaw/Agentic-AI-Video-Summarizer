@@ -8,7 +8,8 @@ Languages and tool used are:
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white)
 
 
-###  🎥Live At: ![Link](https://agentic-ai-video-summarizer.streamlit.app/)
+###  🎥Live At: https://agentic-ai-video-summarizer.streamlit.app/
+
 
 ## 🚀 How to Run Locally
 ### 1️⃣ Clone the Repository
