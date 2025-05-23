@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 ### 4️⃣ Run the Application
 ```bash
-streamlit run app.py
+streamlit run Summarizer.py
 ```
 
 ### Screenshots
