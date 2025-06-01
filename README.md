@@ -15,7 +15,7 @@ https://agentic-ai-video-summarizer.streamlit.app/
 ## 🚀 How to Run Locally
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/Agentic-AI-Video-Summarizer.git
+git clone https://github.com/yoshitashaw/Agentic-AI-Video-Summarizer.git
 cd Agentic-AI-Video-Summarizer
 ```
 
